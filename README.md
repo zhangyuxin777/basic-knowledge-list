@@ -6,9 +6,9 @@
     2. [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
     3. [ISO 15924](https://en.wikipedia.org/wiki/ISO_15924)
 2. 了解本地化相关规范/库：
-  1. [CLDR](https://www.unicode.org/cldr/)：Common Locale Data Repository，即通用语言环境数据仓库，是Unicode组织维护的，包含各语言的本地化数据；
-  2. [ICU](https://icu.unicode.org/)：International Components for Unicode，是一套广泛应用的开源跨平台库，为软件提供Unicode和本地化支持,CLDR是其数据来源；
-  3. [Intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl): 浏览器内置的国际化API，是ICU的JS实现，提供了日期、时间、数字、货币等格式化功能；
+    1. [CLDR](https://www.unicode.org/cldr/)：Common Locale Data Repository，即通用语言环境数据仓库，是Unicode组织维护的，包含各语言的本地化数据；
+    2. [ICU](https://icu.unicode.org/)：International Components for Unicode，是一套广泛应用的开源跨平台库，为软件提供Unicode和本地化支持,CLDR是其数据来源；
+    3. [Intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl): 浏览器内置的国际化API，是ICU的JS实现，提供了日期、时间、数字、货币等格式化功能；
 3. 简单阿拉伯语特性(RTL)、不同于语言下的格式化区别；
 
 ## SEO
@@ -18,14 +18,14 @@
 
 ## 设计系统
 1. C端：
-  1. 了解响应式UI的方式（非国内PC/H5写两套的方式）；
-  2. 了解Design token的理念，国内可以参考阿里的Fusion，国外可以参考[谷歌](https://m3.material.io/foundations/design-tokens/overview)；
-  3. 了解CSS变量的使用，以及高级Less语法；
-  4. 了解iconfont的原理、常见问题、业界方案；
-  5. 了解E2E测试方案；
+    1. 了解响应式UI的方式（非国内PC/H5写两套的方式）；
+    2. 了解Design token的理念，国内可以参考阿里的Fusion，国外可以参考[谷歌](https://m3.material.io/foundations/design-tokens/overview)；
+    3. 了解CSS变量的使用，以及高级Less语法；
+    4. 了解iconfont的原理、常见问题、业界方案；
+    5. 了解E2E测试方案；
 2. B端：
-  1. 了解antd的使用；
-  2. 熟练使用Cursor；
+    1. 了解antd的使用；
+    2. 熟练使用Cursor；
 
 ## 合规
 1. 了解各地区对数据使用和隐私的要求，比如欧盟的GDPR，可以参考[该网页非中国部分](https://www.adpchina.com/resources/articles-and-insights/articles/p/privacy-laws-in-the-world.aspx)；
