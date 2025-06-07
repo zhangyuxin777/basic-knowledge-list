@@ -3,8 +3,8 @@
 ## 本地化
 1. 了解国际标准：
     1. [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)
-  2. [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-  3. [ISO 15924](https://en.wikipedia.org/wiki/ISO_15924)
+    2. [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+    3. [ISO 15924](https://en.wikipedia.org/wiki/ISO_15924)
 2. 了解本地化相关规范/库：
   1. [CLDR](https://www.unicode.org/cldr/)：Common Locale Data Repository，即通用语言环境数据仓库，是Unicode组织维护的，包含各语言的本地化数据；
   2. [ICU](https://icu.unicode.org/)：International Components for Unicode，是一套广泛应用的开源跨平台库，为软件提供Unicode和本地化支持,CLDR是其数据来源；
